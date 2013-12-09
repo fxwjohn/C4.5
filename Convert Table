@@ -1,0 +1,15 @@
+%This is a convert table which turns all features into numerical ones
+f 0
+F 0
+M 1
+t 1
+WEST  0
+STMW  1
+SVHC  2
+SVI   3
+SVHD  4
+other 5
+negative                0
+primary hypothyroid     1
+compensated hypothyroid 2
+secondary hypothyroid   3
