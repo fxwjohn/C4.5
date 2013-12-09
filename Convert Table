@@ -9,8 +9,8 @@ SVHC  2
 SVI   3
 SVHD  4
 other 5
-negative.                0
-primary hypothyroid.     1
-compensated hypothyroid. 2
-secondary hypothyroid.   3
+negative                0
+primary hypothyroid     1
+compensated hypothyroid 2
+secondary hypothyroid   3
 ? -1
